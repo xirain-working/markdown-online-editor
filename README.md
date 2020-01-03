@@ -69,6 +69,7 @@
 ```bash
 # 🎉 克隆项目
 git clone https://github.com/nicejade/markdown-online-editor.git
+git clone https://github.com/xirain-working/markdown-online-editor.git 
 cd markdown-online-editor
 
 # ➕ 安装依赖(跳过安装 )
